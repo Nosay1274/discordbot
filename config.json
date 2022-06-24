@@ -1,0 +1,16 @@
+{
+    "client": {
+        "prefix": "!",
+        "activity": "Houtlow RP",
+        "name": "Houtlow RP",
+        "logo": "https://api.creavite.co/out/jh6WxKWmfQrdzmqj_static.png"
+    },
+
+    "BDD" : {
+        "host": "127.0.0.1",
+        "password": "",
+        "user": "root",
+        "database": "botdiscord"
+    },
+    "token": "OTg4NzUxMzQ3OTU0MzcyNjM4.GPm8Fx.kjx3CCay9aUAGGf5Erw4PQjxmA_mU29G65pii0"
+}
